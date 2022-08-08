@@ -1,5 +1,4 @@
-# Project
-My Jupyter Notebook on IBM Watson Studio
+
 {
  "cells": [
   {
